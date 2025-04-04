@@ -110,3 +110,16 @@
     .p1{display: flex;
     flex-wrap: wrap;}
     }
+
+    @media(max-width:620px){
+        .p1{position: relative;
+        top:100px;
+    width: 450px;
+padding-right: 20px;
+padding-left: 50px;}
+
+.a {position: absolute;
+left:90px;}
+    }
+
+    
